@@ -49,9 +49,16 @@ marp: true
 
 ## 도구
 
+---
+
 ### standard-version
 
-[공식사이트](https://github.com/conventional-changelog/standard-version)
+- [공식사이트](https://github.com/conventional-changelog/standard-version)
+- npm으로 설치
+  - 글로벌
+    - `npm i -g standard-version`
+  - 로컬
+    - `npm i --save-dev standard-version`
 
 ---
 
