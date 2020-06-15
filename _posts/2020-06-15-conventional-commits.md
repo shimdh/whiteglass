@@ -60,6 +60,3 @@ marp: true
 - [컨벤션 커밋 공식사이트](https://www.conventionalcommits.org/ko/v1.0.0/)
 - [쿡앱스 기술 블로그](https://blog.cookapps.io/guide/conventional-commits/#%EC%82%AC%EC%9A%A9%EB%B2%95)
 - [standard-version 사이트](https://github.com/conventional-changelog/standard-version)
-
-
----
