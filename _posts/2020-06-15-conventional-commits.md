@@ -47,6 +47,12 @@ marp: true
 
 ---
 
+## 작성 예제
+
+> feat: conventional-commits 포스트 추가
+
+---
+
 ## 도구
 
 ---
