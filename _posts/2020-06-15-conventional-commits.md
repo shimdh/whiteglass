@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conventional commits"
-date: 2020-06-15 110:00:00 +0900
+date: 2020-06-15 11:00:00 +0900
 marp: true
 ---
 
