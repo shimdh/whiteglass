@@ -78,4 +78,5 @@ marp: true
 ### top
 
 >리눅스 장비와 관련된 데이타들을 실시간으로 보여줌
+
 ![top 이미지](https://www.howtogeek.com/wp-content/uploads/2019/04/xtop_commands_43.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.t2O3g9cB4b.png)
