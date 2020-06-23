@@ -16,6 +16,7 @@ marp: true
 ### cat
 
 >파일의 내용을 보여줌
+
 `cat .bash_logout`
 
 ---
@@ -23,6 +24,7 @@ marp: true
 ### cd
 
 >현재 사용중인 디렉터리를 변경
+
 `cd work`
 
 ---
@@ -30,6 +32,7 @@ marp: true
 ### grep
 
 >찾고자 하는 패턴이 포함된 라인을 찾아줌
+
 `grep train *.txt`
 
 ---
@@ -37,6 +40,7 @@ marp: true
 ### ls
 
 >나열한 경로의 파일과 디렉터리의 목록을 보여줌
+
 `ls`
 
 ---
@@ -50,6 +54,7 @@ marp: true
 ### mkdir
 
 >디렉터리 생성
+
 `mkdir temp`
 
 ---
@@ -57,6 +62,7 @@ marp: true
 ### mv
 
 >어떤 디렉터리에서 다른 디렉터리로 파일이나 디렉터리를 이동
+
 `mv ~/Documents/Apache.pdf .`
 
 ---
@@ -64,6 +70,7 @@ marp: true
 ### ps
 
 >실행되고 있는 프로세스들의 목록을 보여줌
+
 `ps`
 
 ---
@@ -71,6 +78,7 @@ marp: true
 ### tail
 
 >파일의 마지막 10라인들 보여줌
+
 `tail core.c`
 
 ---
