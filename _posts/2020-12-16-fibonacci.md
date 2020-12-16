@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "피보나치 수열 구현 - while"
+title: "피보나치 수열 구현"
 date: 2020-12-16 20:00:00 +0900
 ---
 
-# 피보나치 수열 구하기(while)
+# 피보나치 수열 구하기
+
+## python(while)
 
 ```python
 prev = 1
